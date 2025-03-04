@@ -1,0 +1,27 @@
+[
+    {
+        "topic": "Team",
+        "value": [
+            {
+                "alias": "Kris",
+                "name": "Kristian"
+            }, {
+                "alias": "Dalek",
+                "name": "Dario"
+
+            }
+        ]
+    },
+    {
+        "topic": "Options",
+        "value" : [
+            {
+                "icon": "🧑‍💻",
+                "title": "I nostri progetti attivi"
+            }, {
+                "icon": "💡",
+                "title": "Le nostre idee future"
+            }
+        ]
+    }
+]
