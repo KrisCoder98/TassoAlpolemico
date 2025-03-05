@@ -1,0 +1,78 @@
+[
+    {
+        "alias": "Kris",
+        "name": "Kristian",
+        "surname": "Scarpellino",
+        "birthdate": "1998-07-15",
+        "mezzi": [
+            {
+                "type":"moto",
+                "marca": "Kawasaki",
+                "modello": "Ninja ZX-6R 636",
+                "cv": 130,
+                "anno": 2006
+            },
+            {
+                "type":"auto",
+                "marca": "Peugeot",
+                "modello": "108"
+            }
+        ],
+        "description": "Kawasaki Ninja ZX636R - 130cv"
+    }, {
+        "alias": "Dalek",
+        "name": "Dario",
+        "surname": "Castagna",
+        "birthdate": "1998-02-09",
+        "mezzi": [
+            {
+                "type":"moto",
+                "marca": "Benelli",
+                "modello": "Leoncino",
+                "anno": 2020
+            },
+            {
+                "type":"auto",
+                "marca": "Mercedes",
+                "modello": "SLK"
+            }
+        ],
+        "description": "Benelli Leoncino - Giusto qualche cv"
+    }, {
+        "alias": "Cico",
+        "name": "Antonio",
+        "surname": "Cicatelli",
+        "birthdate": "1997-03-10",
+        "mezzi": [
+            {
+                "type":"moto",
+                "marca": "Kawasaki",
+                "modello": "ER6N",
+                "anno": 2006
+            },
+            {
+                "type":"auto",
+                "marca": "Toyota",
+                "modello": "Celica"
+            }
+        ]
+    }, {
+        "alias": "Andrew",
+        "name": "Andrea",
+        "surname": "Di Marco",
+        "birthdate": "2001-02-25",
+        "mezzi": [
+            {
+                "type":"moto",
+                "marca": "Honda",
+                "modello": "CBR 600",
+                "anno": 2005
+            },
+            {
+                "type":"auto",
+                "marca": "Alfa Romeo",
+                "modello": "GT"
+            }
+        ]
+    }
+]

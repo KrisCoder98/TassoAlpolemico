@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Navbar",
+        "values" : [
+            {
+                "icon": "👊",
+                "title": "Il nostro Team"
+            },
+            {
+                "icon": "🧑‍💻",
+                "title": "I nostri progetti attivi"
+            }, {
+                "icon": "💡",
+                "title": "Le nostre idee future"
+            } 
+        ]
+    }
+]
