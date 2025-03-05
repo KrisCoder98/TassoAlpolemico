@@ -55,7 +55,8 @@
                 "marca": "Toyota",
                 "modello": "Celica"
             }
-        ]
+        ],
+        "description": "Kawasaki ER6N - 110cv"
     }, {
         "alias": "Andrew",
         "name": "Andrea",
@@ -73,6 +74,7 @@
                 "marca": "Alfa Romeo",
                 "modello": "GT"
             }
-        ]
+        ],
+        "description": "Honda CBR600RR - 124cv"
     }
 ]
