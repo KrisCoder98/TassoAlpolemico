@@ -1,18 +1,5 @@
 [
     {
-        "topic": "Team",
-        "value": [
-            {
-                "alias": "Kris",
-                "name": "Kristian"
-            }, {
-                "alias": "Dalek",
-                "name": "Dario"
-
-            }
-        ]
-    },
-    {
         "topic": "Options",
         "value" : [
             {
