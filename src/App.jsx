@@ -1,5 +1,5 @@
 import TeamSection from './components/TeamSection';
-import background from './img/Moto.jpg';
+import background from './assets/img/Moto.jpg';
 import Navbar from './components/Navbar';
 
 function App() {
