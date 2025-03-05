@@ -1,7 +1,7 @@
 [
     {
-        "topic": "Options",
-        "value" : [
+        "name": "Navbar",
+        "values" : [
             {
                 "icon": "🧑‍💻",
                 "title": "I nostri progetti attivi"
