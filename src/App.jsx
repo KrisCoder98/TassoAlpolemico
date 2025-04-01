@@ -1,21 +1,26 @@
-import TeamSection from './components/TeamSection';
-import background from '../public/img/Moto.jpg';
 import Navbar from './components/Navbar';
+import TeamSection from './components/TeamSection';
+import background from '/img/Moto.jpg';
+import Grafico from './components/Grafico';
 
 function App() {
 
   return (
-    <>
-      <div className="h-screen bg-cover bg-center" style={{ backgroundImage: `url(${background})`, marginTop: 0 }} >
-        
-        <p className="text-8xl text-red-600 font-serif p-3 rounded-3xl text-center">🍻 Tasso Alpolemico 🍷</p>
+    <div
+      className="min-h-screen min-w-screen w-auto bg-cover bg-center"
+      style={{
+        backgroundImage: `url(${background})`,
+        backgroundAttachment: "fixed"
+      }} >
 
-        <Navbar />
+      <Navbar />
 
-        <TeamSection />
+      <Grafico />
 
-      </div>
-    </>
+      <TeamSection id="Team"/>
+
+
+    </div>
   )
 }
 

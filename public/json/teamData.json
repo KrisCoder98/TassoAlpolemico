@@ -37,7 +37,7 @@
                 "modello": "SLK"
             }
         ],
-        "description": "Benelli Leoncino - Giusto qualche cv"
+        "description": "Benelli Leoncino - 50cv"
     }, {
         "alias": "Cico",
         "name": "Antonio",
@@ -56,7 +56,7 @@
                 "modello": "Celica"
             }
         ],
-        "description": "Kawasaki ER6N - 110cv"
+        "description": "Kawasaki ER6N - 72cv"
     }, {
         "alias": "Andrew",
         "name": "Andrea",
@@ -75,6 +75,6 @@
                 "modello": "GT"
             }
         ],
-        "description": "Honda CBR600RR - 124cv"
+        "description": "Honda CBR600RR - 117cv"
     }
 ]
