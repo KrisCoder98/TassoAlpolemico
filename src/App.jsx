@@ -15,9 +15,9 @@ function App() {
 
       <Navbar />
 
-      <Grafico />
-
       <TeamSection id="Team"/>
+
+      <Grafico id="Grafici"/>
 
 
     </div>
